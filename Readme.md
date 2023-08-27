@@ -3,8 +3,10 @@ This was a project for ECE-189 university class. This projects implements a
 very basic facial recognition program based on the LBPH algorithm.
 
 ## Dependencies
-The only dependencies that need to be installed for the program to work
-properly are openCV and numpy.
+The dependencies that need to be installed for the program to work
+properly are:
+* OpenCV
+* Numpy
 
 ## How it works
 The program is able to recognize faces only stored in the database folder.
